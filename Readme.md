@@ -4,6 +4,6 @@ Frate L, Saura S, Minotti M, Di Martino P, Giancola C, Carranza ML (2014). Quant
 
 Software used for map simulation: [SIMMAP 2.0](https://www2.montes.upm.es/personales/saura/software.html#simmap).
 
-The results of the simulations for each year and scale is reported in the data folder.
+The results of the simulations for each year and scale are reported in the data folder.
 
 The R code for producing the analysis reported in table 2 and in figure 4 was also provided.
